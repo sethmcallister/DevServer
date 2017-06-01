@@ -1,7 +1,5 @@
 package xyz.sethy.devserver;
 
-import io.fabric8.kubernetes.client.DefaultKubernetesClient;
-import io.fabric8.kubernetes.client.KubernetesClient;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**
